@@ -5,4 +5,4 @@ def is_leap(year):
         return False
 
 year = int(input())
-print(is_leap(year))
+print(is_leap(year)) #print
